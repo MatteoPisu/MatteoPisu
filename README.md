@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello, I am Matteo Pisu
 
-<!--
-**MatteoPisu/MatteoPisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a sophomore **Mathematics & Cybersecurity** double major and Honors student at Drury University.
+Beyond my passion for cybersecurity, I am a competitive collegiate student-athlete playing on the **Drury University Men's Tennis team**.
 
-Here are some ideas to get you started:
+## 🎓 Academic Focus
+* **Double Major:** B.S. in Mathematics & B.S. in Cybersecurity (Expected May 2028)
+* **Minors & Certificates:** Honors Program Minor, Actuarial Science & Risk Management Minor, Data Analytics Certificate
+* **Activities:** Drury University Cybersecurity Club, NCAA Division II Men's Tennis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚔️ Competitive Experience
+### **Drury University Cybersecurity Club**
+* **National Cyber League (NCL):** Competed in individual and team brackets, executing hands-on challenges across log analysis, network traffic analysis, cryptography, scanning, and web application exploitation.
+* **DoE CyberForce Competition:** System Administrator (Windows Specialist). Hardened Windows Server/workstation infrastructure, configured Active Directory/GPOs, and maintained service availability under active Red Team attacks.
+* **Collegiate Cyber Defense Competition (CCDC):** Blue Team Defender (Linux & Operations Specialist). Hardened Linux environments, configured secure system services, and successfully resolved high-priority technical "injects" (SLA business tasks) under tight operational deadlines.
+
+## 🎯 Summer Goals
+I am currently executing a targeted technical roadmap to prepare for fall recruitment:
+- [ ] Obtain **CompTIA Security+** Certification
+- [ ] Execute an **AWS S3 Misconfiguration Audit** & build a custom risk-assessment report
+- [ ] Build/Deploy a container runtime security scanning pipeline utilizing **Trivy** & **GitHub Actions**
+- [x] Document and publish my enterprise **Active Directory Hardening Lab**
