@@ -14,9 +14,3 @@ Beyond my passion for cybersecurity, I am a competitive collegiate student-athle
 * **DoE CyberForce Competition:** System Administrator (Windows Specialist). Hardened Windows Server/workstation infrastructure, configured Active Directory/GPOs, and maintained service availability under active Red Team attacks.
 * **Collegiate Cyber Defense Competition (CCDC):** Blue Team Defender (Linux & Operations Specialist). Hardened Linux environments, configured secure system services, and successfully resolved high-priority technical "injects" (SLA business tasks) under tight operational deadlines.
 
-## 🎯 Summer Goals
-I am currently executing a targeted technical roadmap to prepare for fall recruitment:
-- [ ] Obtain **CompTIA Security+** Certification
-- [ ] Execute an **AWS S3 Misconfiguration Audit** & build a custom risk-assessment report
-- [ ] Build/Deploy a container runtime security scanning pipeline utilizing **Trivy** & **GitHub Actions**
-- [x] Document and publish my enterprise **Active Directory Hardening Lab**
